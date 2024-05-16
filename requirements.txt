@@ -1,0 +1,7 @@
+pandas
+matplotlib
+streamlit
+shap
+numpy
+plotly
+catboost
