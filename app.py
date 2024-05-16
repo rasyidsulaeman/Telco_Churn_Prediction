@@ -27,7 +27,7 @@ st.divider()
 sidebar = ('Exploratory Data Analysis', 'Machine Learning Model Computation', 'Churn Probability Prediction')
 with st.sidebar:
     st.markdown('##### Author : Rasyid Sulaeman')
-    st.markdown('##### Check out the repo [here](https://github.com/rasyidsulaeman/Boston_House_Price_Analysis)')
+    st.markdown('##### Check out the repo [here](https://github.com/rasyidsulaeman/Telco_Churn_Prediction)')
     st.header('Select Data Processess')
     radio = st.radio('Modes', options=sidebar)
 
